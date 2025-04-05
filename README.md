@@ -1,5 +1,5 @@
-# CardMisc
-Love2D mini learning project for messing with cards
+# Love2D Template
+Quick-start template for Love2D projects.
 
 ## Disclaimer
 There are There README files in each directory within src.

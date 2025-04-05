@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="loveProject" type="lua.app" factoryName="Lua Application">
+  <configuration default="false" name="loveProject" type="lua.app" factoryName="Lua Application" folderName="Love2D">
     <option name="program" value="C:\Program Files\LOVE\lovec.exe" />
     <option name="file" value="$PROJECT_DIR$/" />
     <option name="workingDir" value="$PROJECT_DIR$/" />
